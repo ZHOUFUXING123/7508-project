@@ -1,0 +1,7 @@
+# Install PyTorch separately using the CPU/CUDA index for your machine.
+transformers==4.51.3
+datasets==3.6.0
+huggingface-hub==0.34.4
+safetensors==0.6.2
+numpy==2.2.6
+matplotlib==3.10.3

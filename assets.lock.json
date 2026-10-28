@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "classifier": {
+    "id": "distilbert/distilbert-base-uncased",
+    "revision": "12040accade4e8a0f71eabdb258fecc2e7e948be"
+  },
+  "defense": {
+    "id": "openai-community/gpt2",
+    "revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e"
+  },
+  "dataset": {
+    "id": "fancyzhx/ag_news",
+    "revision": "eb185aade064a813bc0b7f42de02595523103ca4"
+  }
+}

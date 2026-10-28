@@ -1,0 +1,1 @@
+{"base": "base.json", "study_name": "dase7508-low-rate-backdoor-reduced", "poison_rates": [0.005, 0.02]}

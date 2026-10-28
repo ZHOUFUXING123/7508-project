@@ -1,0 +1,11 @@
+{
+  "base": "base.json",
+  "study_name": "dase7508-formal-pilot-s42-v1",
+  "mode": "formal",
+  "seeds": [
+    42
+  ],
+  "poison_rates": [
+    0.02
+  ]
+}

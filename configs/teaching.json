@@ -1,0 +1,7 @@
+{
+  "base": "base.json", "mode": "teaching", "study_name": "teaching-only",
+  "train_size": 400, "validation_size": 80, "calibration_size": 16,
+  "evaluation_size": 40, "seeds": [42], "poison_rates": [0.02],
+  "epochs": 1, "batch_size": 4, "effective_batch_size": 4,
+  "eval_batch_size": 8, "onion_batch_size": 4
+}
